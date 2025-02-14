@@ -9,3 +9,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+
+.flip-counter {
+    display: flex;
+    font-size: 8rem;
+    color: white;
+    margin: auto;
+  }
+
+  .flip-counter .digit {
+    background-color: darkslategray;
+    border-radius: 5px;
+    margin: 0 5px;
+    width: 90px;
+    text-align: center;
+  
+  }
+
+#clock{
+  width: 20vh;
+
+}
